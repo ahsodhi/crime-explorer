@@ -18,9 +18,11 @@ The program allows you to generate an appropriate visual representation (bar gra
 
 ## Instructions
 
-1. Download the crime data csv file from:
+1. Clone this repo
+
+2. Download the crime data csv file and place it in the same directory as the repo
 https://drive.google.com/open?id=0B1uhOkyVD6tAY0RWdUZhX1NVejg
 
-2. From a terminal window, execute `perl crimeExplorer.pl crimedata.csv`
+3. From a terminal window, navigate to the repo directory and execute `perl crimeExplorer.pl crimedata.csv`
 
-For full instructions covering each type of functionality in the program, take a look at UserManual.pdf
+Read **UserManual.pdf** (included in repo) for full instructions covering each functionality.

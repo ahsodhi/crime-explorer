@@ -1,4 +1,4 @@
-# crime-explorer
+# Crime Explorer
 
 Crime Explorer is a flexible, adaptive program used to navigate and generate visual data from Statistics Canada’s downloadable CSV file.  
   

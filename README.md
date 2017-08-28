@@ -25,4 +25,4 @@ https://drive.google.com/open?id=0B1uhOkyVD6tAY0RWdUZhX1NVejg
 
 3. From a terminal window, navigate to the repo directory and execute `perl crimeExplorer.pl crimedata.csv`
 
-Read **UserManual.pdf** (included in repo) for full instructions covering each functionality.
+Read _**UserManual.pdf**_ (included in repo) for full instructions covering each functionality.

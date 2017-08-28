@@ -6,7 +6,7 @@ You can search for all statistics regarding a particualar crime in one more loca
   
 The program allows you to generate an appropriate visual representation (bar graph or line plot) each time you execute a new query.  
   
-Contrubutors: Mark Water and Alexander Thiele
+**Contrubutors:** *Mark Water* and *Alexander Thiele*
 
 ## Requirements
 

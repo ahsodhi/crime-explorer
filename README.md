@@ -2,7 +2,7 @@
 
 Crime Explorer is a flexible, adaptive program used to navigate and generate visual data from Statistics Canada’s downloadable CSV file.  
   
-You can search for all statistics regarding a particualar crime in one more locations, and you can also track a particular statistic of a crime over multiple years.  
+You can search for all statistics regarding a particualar crime in one or more locations, and you can also track a particular statistic of a crime over multiple years.  
   
 The program allows you to generate an appropriate visual representation (bar graph or line plot) each time you execute a new query.  
   
